@@ -1,19 +1,21 @@
 # 🍽️ CraveCart — Modern Food Ordering Web App
 
 CraveCart is a clean, modern, and responsive food ordering web application built using HTML, CSS, and JavaScript.  
-It showcases UI design, dynamic content loading, Swiper.js components, and an interactive cart system.
+It showcases UI design, dynamic content loading, Swiper.js components, and an interactive cart system.CraveCart 
+is a front-end food ordering platform designed with clean UI, smooth animations, and real-time interaction.
+It dynamically loads products and testimonials using JSON, features a Swiper-powered product slider, includes an 
+interactive cart system, and is fully responsive across all devices. Built entirely using HTML, CSS, and JavaScript,
+it serves as a perfect demonstration of modern front-end development and UI/UX principles.
 
 ---
 
 ## 🚀 Live Demo  
-(Enable GitHub Pages after upload)
 
 👉 https://jathinvasukula.github.io/Crave-Cart/
 
 ---
 
 ## 📸 Screenshots  
-(Add real screenshots inside `/images` and update these paths)
 
  Home Page 
 
@@ -116,21 +118,7 @@ python3 -m http.server
 
 ---
 
-## 🌐 Deploy on GitHub Pages
 
-1. Go to **Settings → Pages**
-2. Under *Source* select:
-   - Branch: `main`
-   - Folder: `/ (root)`
-3. Save
-
-Your site will appear at:
-
-```
-https://jathinvasukula.github.io/Crave-Cart/
-```
-
----
 
 ## 🤝 Contributing
 
